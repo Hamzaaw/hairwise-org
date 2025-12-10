@@ -1,0 +1,165 @@
+===============================================
+HAIRWISE.ORG - WEBSITE SITEMAP & URL STRUCTURE
+===============================================
+
+Domain: https://hairwise.org
+
+Last Updated: December 2025
+
+===============================================
+MAIN PAGES
+===============================================
+
+Home Page
+https://hairwise.org/
+
+Features (anchor on home)
+https://hairwise.org/#features
+
+How It Works (anchor on home)
+https://hairwise.org/#how-it-works
+
+FAQ (anchor on home)
+https://hairwise.org/#faq
+
+===============================================
+LEGAL PAGES (REQUIRED FOR APP STORE)
+===============================================
+
+Terms of Service
+https://hairwise.org/terms
+
+Privacy Policy
+https://hairwise.org/privacy
+
+Support / Contact
+https://hairwise.org/support
+
+===============================================
+COMPANY PAGES (FUTURE)
+===============================================
+
+About Us
+https://hairwise.org/about
+
+Blog
+https://hairwise.org/blog
+
+Careers
+https://hairwise.org/careers
+
+Press / Media Kit
+https://hairwise.org/press
+
+===============================================
+PRODUCT PAGES (FUTURE)
+===============================================
+
+Pricing
+https://hairwise.org/pricing
+
+Download
+https://hairwise.org/download
+
+===============================================
+SUPPORT PAGES
+===============================================
+
+Help Center / FAQ
+https://hairwise.org/help
+
+Contact Us
+https://hairwise.org/contact
+
+Data Deletion Request
+https://hairwise.org/support (or mailto:support@hairwise.app)
+
+Bug Report
+mailto:support@hairwise.app?subject=Bug%20Report
+
+===============================================
+LEGAL COMPLIANCE LINKS (FOR APP STORE SUBMISSIONS)
+===============================================
+
+Apple App Store Requirements:
+- Privacy Policy URL: https://hairwise.org/privacy
+- Terms of Service URL: https://hairwise.org/terms
+- Support URL: https://hairwise.org/support
+- Marketing URL: https://hairwise.org
+
+Google Play Store Requirements:
+- Privacy Policy URL: https://hairwise.org/privacy
+- Support Email: support@hairwise.org
+
+===============================================
+EMAIL ADDRESSES
+===============================================
+
+General Support: support@hairwise.org
+Legal Inquiries: support@hairwise.org
+Data Deletion: support@hairwise.org
+Press/Media: support@hairwise.org
+
+===============================================
+SOCIAL MEDIA (PLACEHOLDER)
+===============================================
+
+Twitter/X: https://twitter.com/hairwiseapp
+Instagram: https://instagram.com/hairwiseapp
+LinkedIn: https://linkedin.com/company/hairwise
+
+===============================================
+APP STORE LINKS (PLACEHOLDER)
+===============================================
+
+Apple App Store: https://apps.apple.com/app/hairwise/id[APP_ID]
+Google Play Store: https://play.google.com/store/apps/details?id=[PACKAGE_NAME]
+
+===============================================
+CURRENTLY IMPLEMENTED ROUTES
+===============================================
+
+✅ / (Home)
+✅ /terms (Terms of Service)
+✅ /privacy (Privacy Policy)
+✅ /support (Support/Contact)
+✅ /#features (Features section)
+✅ /#how-it-works (How It Works section)
+✅ /#faq (FAQ section)
+
+===============================================
+TO BE IMPLEMENTED (FUTURE)
+===============================================
+
+⬜ /about
+⬜ /blog
+⬜ /careers
+⬜ /pricing
+⬜ /download
+⬜ /press
+⬜ /help
+
+===============================================
+NOTES
+===============================================
+
+1. All legal pages (terms, privacy, support) are required for 
+   Apple App Store and Google Play Store submissions.
+
+2. The privacy policy must include:
+   - What data is collected
+   - How data is used
+   - How to request data deletion
+   - Contact information
+
+3. Terms of Service must include:
+   - Medical disclaimer (NOT a medical device)
+   - AI limitations disclaimer
+   - Subscription/refund policy (managed by Apple/Google)
+
+4. Support page must provide:
+   - Contact email
+   - Data deletion request method
+   - Response time expectation
+
+===============================================
