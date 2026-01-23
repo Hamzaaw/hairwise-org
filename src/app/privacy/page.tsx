@@ -31,7 +31,7 @@ export default function PrivacyPage() {
             <h2 className="text-xl font-semibold text-ink mb-4">1. DATA WE COLLECT</h2>
             <ul className="space-y-3 text-graphite list-none pl-0">
               <li>
-                <strong className="text-ink">Images:</strong> We collect photos of your hair/scalp that you upload for analysis and tracking. These images are securely transmitted to our encrypted servers for processing and to support your history over time.
+                <strong className="text-ink">Images:</strong> We collect photos of your hair/scalp that you upload for analysis and tracking. These images are securely transmitted to our secure servers for processing and to support your history over time.
               </li>
               <li>
                 <strong className="text-ink">User Content:</strong> We collect the information you enter in the app (for example, routine and shedding logs).
@@ -66,7 +66,7 @@ export default function PrivacyPage() {
           <section className="mt-8">
             <h2 className="text-xl font-semibold text-ink mb-4">3. DATA STORAGE & SECURITY</h2>
             <p className="text-graphite">
-              We implement industry-standard security measures to protect your data. Your images are stored on secure cloud servers and are encrypted in transit and at rest. We use trusted service providers to operate the app (cloud storage/processing and subscription/paywall services).
+              We implement industry-standard security measures to protect your data. Your images are stored on secure cloud servers and are encrypted in transit and at rest. We use trusted service providers to operate the app (cloud storage/processing and subscription/paywall services). We may share data with these service providers only as needed to operate the app and deliver features, and not for advertising purposes.
             </p>
           </section>
 
