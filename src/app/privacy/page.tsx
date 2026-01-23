@@ -31,10 +31,19 @@ export default function PrivacyPage() {
             <h2 className="text-xl font-semibold text-ink mb-4">1. DATA WE COLLECT</h2>
             <ul className="space-y-3 text-graphite list-none pl-0">
               <li>
-                <strong className="text-ink">Images:</strong> We collect photos of your hair/scalp that you upload. These images are securely transmitted to our encrypted servers solely for the purpose of generating your analysis.
+                <strong className="text-ink">Images:</strong> We collect photos of your hair/scalp that you upload for analysis and tracking. These images are securely transmitted to our encrypted servers for processing and to support your history over time.
               </li>
               <li>
-                <strong className="text-ink">Usage Data:</strong> We collect anonymous usage statistics (e.g., button clicks, screen time) to improve app stability and performance.
+                <strong className="text-ink">User Content:</strong> We collect the information you enter in the app (for example, routine and shedding logs).
+              </li>
+              <li>
+                <strong className="text-ink">Account Data:</strong> We collect a user identifier associated with Sign in with Apple to save your data and sync across devices.
+              </li>
+              <li>
+                <strong className="text-ink">Subscription Data:</strong> We collect subscription status and purchase history related to in-app purchases (processed by Apple). We may use providers such as RevenueCat and Superwall to manage subscription status and paywalls.
+              </li>
+              <li>
+                <strong className="text-ink">Usage & Diagnostics:</strong> We collect app interaction data and technical diagnostics (such as crash and performance data) to improve stability and performance.
               </li>
             </ul>
           </section>
@@ -43,13 +52,13 @@ export default function PrivacyPage() {
             <h2 className="text-xl font-semibold text-ink mb-4">2. HOW WE USE YOUR DATA</h2>
             <ul className="space-y-3 text-graphite list-none pl-0">
               <li>
-                <strong className="text-ink">To Analyze:</strong> Your photos are processed by our AI algorithms to provide visual density scoring and routine suggestions.
+                <strong className="text-ink">To Analyze:</strong> Your photos are processed to provide density scoring and tracking insights over time.
               </li>
               <li>
-                <strong className="text-ink">To Improve:</strong> We may use de-identified and aggregated data to refine our AI models. This data is stripped of all personal identifiers (such as name or IP address) before being used for training.
+                <strong className="text-ink">AI Processing:</strong> Your photos may be analyzed using third-party AI services to generate insights. We do not use your data to train AI models.
               </li>
               <li>
-                <strong className="text-ink">Affiliate Links:</strong> We use affiliate links for product recommendations. Clicking these links may share a non-personal &quot;referral ID&quot; with the merchant to track the source of the click. We do not share your health data or photos with these merchants.
+                <strong className="text-ink">Affiliate Links:</strong> We use affiliate links for product recommendations. Clicking these links may share a non-personal &quot;referral ID&quot; with the merchant to track the source of the click. We do not share your personal data or photos with these merchants.
               </li>
             </ul>
           </section>
@@ -57,7 +66,7 @@ export default function PrivacyPage() {
           <section className="mt-8">
             <h2 className="text-xl font-semibold text-ink mb-4">3. DATA STORAGE & SECURITY</h2>
             <p className="text-graphite">
-              We implement industry-standard security measures to protect your data. Your images are stored on secure cloud servers and are encrypted in transit and at rest.
+              We implement industry-standard security measures to protect your data. Your images are stored on secure cloud servers and are encrypted in transit and at rest. We use trusted service providers to operate the app (cloud storage/processing and subscription/paywall services).
             </p>
           </section>
 
@@ -68,7 +77,7 @@ export default function PrivacyPage() {
             </p>
             <ul className="space-y-3 text-graphite list-none pl-0">
               <li>
-                <strong className="text-ink">In-App Deletion:</strong> You can delete your account and all associated data instantly by going to <strong>Settings &gt; Delete Account</strong> within the app.
+                <strong className="text-ink">In-App Deletion:</strong> You can delete your account and all associated data by going to <strong>Settings &gt; Delete Account</strong> within the app. We delete data from our active systems promptly; some data may remain in backups for a limited period.
               </li>
               <li>
                 <strong className="text-ink">Manual Request:</strong> Alternatively, you may contact us at{" "}
